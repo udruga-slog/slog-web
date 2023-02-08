@@ -7235,6 +7235,10 @@ textarea.form-control-lg {
   font-size: calc(1.275rem + 0.3vw) !important;
 }
 
+.fs-4-o-nama {
+  font-size: calc(1.0rem + 0.3vw) !important;
+}
+
 .fs-5 {
   font-size: 1.25rem !important;
 }
@@ -10794,6 +10798,10 @@ textarea.form-control-lg {
 
   .fs-4 {
     font-size: 1.5rem !important;
+  }
+
+  .fs-4-o-nama {
+    font-size: 1.4rem !important;
   }
 }
 @media print {
